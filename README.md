@@ -26,11 +26,11 @@
 
 GitHub Search API - A NestJS application that provides GitHub repository search with authentication and logging.
 
-## 🐳 Quick Start with Docker
+## Quick Start with Docker
 
 ```bash
 # Start the application with PostgreSQL
-$ docker-compose up
+$ docker-compose up -d
 
 # Stop the application
 $ docker-compose down
